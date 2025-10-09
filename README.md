@@ -20,7 +20,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Pedro Rolim GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorolim&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorolim&layout=compact&theme=radical)
+![Pedro Rolim GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorolim&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorolim&layout=compact&theme=radical&count_private=true)
 
 ---
