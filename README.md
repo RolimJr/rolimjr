@@ -11,7 +11,6 @@
 📧 **Email:** pedro.rolim@academico.ufpb.br  
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolimjr&show_icons=true&theme=dark)
 
 ## 🚀 Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +20,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Pedro Rolim GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorolim&show_icons=true&theme=radical&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolimjr&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorolim&layout=compact&theme=radical&count_private=true)
 
 ---
